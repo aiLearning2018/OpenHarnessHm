@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "OpenHarness for HarmonyOS"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "OpenHarness Entry"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "OpenHarness"
+    },
+    {
+      "name": "permission_internet_reason",
+      "value": "需要网络访问权限以连接 LLM API"
+    },
+    {
+      "name": "permission_network_info_reason",
+      "value": "需要获取网络状态"
+    },
+    {
+      "name": "permission_storage_reason",
+      "value": "需要存储权限以保存对话历史"
+    },
+    {
+      "name": "permission_read_media_reason",
+      "value": "需要读取媒体文件"
+    },
+    {
+      "name": "permission_write_media_reason",
+      "value": "需要写入媒体文件"
+    },
+    {
+      "name": "permission_background_reason",
+      "value": "需要后台运行权限以执行长时间任务"
+    },
+    {
+      "name": "app_name",
+      "value": "OpenHarness"
+    },
+    {
+      "name": "chat_input_placeholder",
+      "value": "输入消息..."
+    },
+    {
+      "name": "send_button",
+      "value": "发送"
+    },
+    {
+      "name": "settings_title",
+      "value": "设置"
+    },
+    {
+      "name": "model_settings",
+      "value": "模型设置"
+    },
+    {
+      "name": "api_key_settings",
+      "value": "API 密钥"
+    },
+    {
+      "name": "permission_settings",
+      "value": "权限设置"
+    },
+    {
+      "name": "new_chat",
+      "value": "新对话"
+    },
+    {
+      "name": "history",
+      "value": "历史记录"
+    },
+    {
+      "name": "tools",
+      "value": "工具"
+    }
+  ]
+}

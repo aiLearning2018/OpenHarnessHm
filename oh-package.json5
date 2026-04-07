@@ -1,0 +1,13 @@
+{
+  "name": "openharness-hm",
+  "version": "1.0.0",
+  "description": "OpenHarness for HarmonyOS - AI Agent Harness Native Implementation",
+  "main": "",
+  "author": "OpenHarness Team",
+  "license": "MIT",
+  "dependencies": {
+    "@ohos/axios": "^2.2.0"
+  },
+  "devDependencies": {},
+  "dynamicDependencies": {}
+}
